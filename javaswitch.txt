@@ -1,0 +1,30 @@
+while vs for loop?
+===================
+
+fixed no of iteraction in for loop
+when no of iteraction are not know the use while loop
+
+switch:
+=========
+
+selection statement based on the cdhoice the statement will execute 
+
+break and continue statement :
+===============================
+
+it should be used inside the loop to break the loop based on the condition
+
+practice question switch:
+=========================
+
+writte a java program to read an integer value 
+
+1.find factorial 
+2.reverse the number 
+3.whether it is palindrome or  not 
+4. perfect number
+
+note : 6=>1,2,3=> 1+2+3=6
+
+5. strong number
+note:145=>1!+4!+5!=145
